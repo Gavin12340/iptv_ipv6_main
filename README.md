@@ -3,6 +3,8 @@
 - 个人认为ipv6更稳定点
 - 分组兼顾老人和孩子
 - 安卓电视端推荐搭配Perfect player使用，上下换台，简单方便
+- pp推荐下载地址：https://apkdone.com/perfect-player-iptv/
 - 节目单epg采用：http://epg.51zmt.top:8000/e.xml
+
 # 维护状态：
 - 2023/03/07,可用
